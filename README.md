@@ -1,7 +1,7 @@
 # Taller: Git desde cero - Control de versiones para todos
 
 Este repositorio contiene el material del taller práctico de Git y GitHub impartido a estudiantes universitarios, con el objetivo de aprender a utilizar herramientas de control de versiones en proyectos reales.
-Grupo de Whatsapp:
+Grupo de Whatsapp: (Link)
 
 ---
 
@@ -13,7 +13,7 @@ El taller se divide en tres partes principales:
 - `git init`: Inicializar repositorio
 - `git add`, `git commit`: Agregar y guardar cambios
 - `git status`, `git log`: Ver historial
-- `git alias`, `git tag`, `git reset`
+- `git alias`, `git tag`, `git reset` : Ayuda a facilitar los comandos
 
 ### 2. Ramas y flujo de trabajo
 - `git branch`, `git switch`, `git merge`
