@@ -1,7 +1,6 @@
 # Taller: Git desde cero - Control de versiones para todos
 
 Este repositorio contiene el material del taller práctico de Git y GitHub impartido a estudiantes universitarios, con el objetivo de aprender a utilizar herramientas de control de versiones en proyectos reales.
-Grupo de Whatsapp: https://chat.whatsapp.com/L69H14dzRyW4r81pTYPkRu?mode=r_t
 
 ---
 
